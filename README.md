@@ -9,12 +9,10 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/wA8Gx_UqnY4AAAAd/coding.gif" width="200" alt="Coding Animation" style="border-radius: 50%;">
 </div>
-
+<br>
 <div align="center">
 
  🔭 I’m currently working on **DaviQ Play Studio FiveM Server**
- 
- 👨‍💻 All of my projects are available at [https://github.com/SohanEdiri](https://github.com/SohanEdiri)
  
  💬 Ask me about **HTML, CSS and Java Script**
 
@@ -30,7 +28,7 @@
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=red" target="_blank" />
   </a>
   <a href="https://www.youtube.com/c/daviq.playstudio" target="_blank">
-     <img src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" /> 
   </a>
   <a href="https://www.fiverr.com/users/speedare" target="_blank">
     <img src="https://img.shields.io/badge/Fiverr-005e0a?style=for-the-badge&logo=fiverr&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
