@@ -7,7 +7,7 @@
 <br/>  
 
 <div align="center">
-  <img src="https://giphy.com/embed/6l2yTRp0bSSAcz2tkq" width="200" alt="Coding Animation" style="border-radius: 50%;">
+  <img src="https://giphy.com/embed/6l2yTRp0bSSAcz2tkq.gif" width="200" alt="Coding Animation" style="border-radius: 50%;">
 </div>
 <br>
 <div align="center">
