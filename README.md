@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=2000&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Sohan+Edirisinghe;Frontend+Dev+%7C+FiveM+Dev+%7C+Tech+Enthusiast;Welcome+to+My+Corner+of+the+Code+Universe!!" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A passionate software developer from Sri Lanka 🇱🇰</h3>
-
-<br/>  
+<h3 align="center">A passionate software developer from Sri Lanka 🇱🇰</h3> 
 
 <br>
 <div align="center">
