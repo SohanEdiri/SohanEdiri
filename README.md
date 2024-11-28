@@ -13,8 +13,11 @@
 <div align="center">
 
 - 🔭 I’m currently working on **DaviQ Play Studio FiveM Server**
+- 
 - 👨‍💻 All of my projects are available at [https://github.com/SohanEdiri](https://github.com/SohanEdiri)
+- 
 - 💬 Ask me about **HTML, CSS and Java Script**
+- 
 - ⚡ Fun fact **I think I am funny**
 
 </div>
