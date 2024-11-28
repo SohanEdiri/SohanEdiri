@@ -1,4 +1,4 @@
-<h1 align="center">
+![image](https://github.com/user-attachments/assets/a95ec71a-5dba-499c-8761-d2fecb59c968)<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=2000&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Sohan+Edirisinghe;Frontend+Dev+%7C+FiveM+Dev+%7C+Tech+Enthusiast;Welcome+to+My+Corner+of+the+Code+Universe!!" alt="Typing SVG" />
 </h1>
 
@@ -7,7 +7,7 @@
 <br/>  
 
 <div align="center">
-  <img src="https://giphy.com/embed/6l2yTRp0bSSAcz2tkq.gif" width="200" alt="Coding Animation" style="border-radius: 50%;">
+  <img src="![image](https://github.com/user-attachments/assets/95559bef-370a-4eb9-9659-88f215e0cf96)" width="200" alt="Coding Animation" style="border-radius: 50%;">
 </div>
 <br>
 <div align="center">
