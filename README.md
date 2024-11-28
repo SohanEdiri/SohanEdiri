@@ -7,7 +7,7 @@
 <br/>  
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/wA8Gx_UqnY4AAAAd/coding.gif" width="200" alt="Coding Animation" style="border-radius: 50%;">
+  <img src="https://i.gifer.com/embedded/download/6HLC.gif" width="200" alt="Coding Animation" style="border-radius: 50%;">
 </div>
 <br>
 <div align="center">
