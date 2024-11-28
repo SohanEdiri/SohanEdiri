@@ -36,8 +36,6 @@
     <img src="https://img.shields.io/badge/Fiverr-005e0a?style=for-the-badge&logo=fiverr&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
  </a>
 </div>
-
- <hr/>
   
 <hr/>
     <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
