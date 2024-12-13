@@ -22,7 +22,7 @@
   <a href="https://instagram.com/sohan.vpz" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=red" target="_blank" />
   </a>
-  <a href="https://www.youtube.com/c/daviq.playstudio" target="_blank">
+  <a href="https://www.youtube.com/@daviqplaystudio" target="_blank">
      <img src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" /> 
   </a>
   <a href="https://www.fiverr.com/users/speedare" target="_blank">
