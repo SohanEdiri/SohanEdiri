@@ -61,6 +61,6 @@
 
 <div align="center">
     <h3>Thanks for Visiting! 💻🚀</h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=36BCF7&center=true&vCenter=true&lines=Where+innovation+meets+collaboration!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&background=1D004B00&width=435&lines=Where+innovation+meets+collaboration!" alt="Typing SVG" />
   </div>   
 
