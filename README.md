@@ -7,7 +7,7 @@
 <br>
 <div align="center">
 
- 🔭 I’m currently working on **DaviQ Play Studio FiveM Server**
+ 🔭 I’m currently working on **RiseNova Scripts**
  
  💬 Ask me about **HTML, CSS and Java Script**
 
